@@ -18,7 +18,7 @@ I design experiences that *breathe*.
 
 ---
 
-### ⚒️ My Stack
+### ⚒️ Tech Arsenal
 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
